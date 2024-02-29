@@ -1,6 +1,6 @@
 # A lire
 
-N'ayant aucune idée pour le module dynamique, j'ai pris les décision de faire un module dynamique qui configure la base de données utilisée (Production ou })
+N'ayant aucune idée pour le module dynamique, j'ai pris les décision de faire un module dynamique qui configure la base de données utilisée (Production ou Preproduction)
 
 Si vous souhaitez changer les propriété il suffit de changer dans le fichier app.module.ts "./prod" en "./prepod".
 
